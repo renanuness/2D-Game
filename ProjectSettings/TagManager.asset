@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Holder
+  - Bound
+  - Bug
+  - Collector
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Bound
+  - Bug
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1078879079
+    locked: 0
+  - name: Ground
+    uniqueID: 2374777465
+    locked: 0
+  - name: Pipe
+    uniqueID: 1253250221
+    locked: 0
+  - name: Bug
+    uniqueID: 1867152889
+    locked: 0
+  - name: Player
+    uniqueID: 1700832565
+    locked: 0
+  - name: UI
+    uniqueID: 4281783701
+    locked: 0
